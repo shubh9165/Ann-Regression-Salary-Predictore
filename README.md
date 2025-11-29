@@ -1,0 +1,1 @@
+This model predict salary
